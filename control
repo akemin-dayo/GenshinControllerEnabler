@@ -1,0 +1,13 @@
+Package: ai.akemi.genshincontrollerenabler
+Name: Genshin Controller Enabler
+Depends: mobilesubstrate, firmware (<< 14.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Use a controller on iOS 13 and below natively in Genshin!
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Author: Karen/あけみ <karen@akemi.ai>
+Section: Tweaks
+Conflicts: 
+Homepage: https://cydia.akemi.ai/
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.genshincontrollerenabler
+Icon: 
