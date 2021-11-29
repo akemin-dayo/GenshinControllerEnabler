@@ -11,8 +11,8 @@ What it _actually_ does is simply make Genshin believe your device is running iO
 
 **That being said, there are some caveats to be aware of:**
 
-1. **[iOS 13 and below]** The Chat button does not work. For more information as to why, please see the section below. (The Chat button is the Touchpad button (PlayStation) or the VIEW button (MFi, Xbox).)
-2. **[[nControl](https://repo.packix.com/package/com.nito.ncontrol) on iOS 12 and below]** PlayStation button prompts do not show on iOS 12 and below. MFi / Xbox button prompts are displayed instead.
+1. The Chat button does not work. For more information as to why, please see [the section below](#so-why-did-mihoyo-make-such-a-strange-artificial-limitation). (The Chat button is the Touchpad button (PlayStation) or the VIEW button (MFi, Xbox).)
+2. **[[nControl](https://repo.packix.com/package/com.nito.ncontrol) on iOS 12 and below only]** PlayStation button prompts do not show on iOS 12 and below. MFi / Xbox button prompts are displayed instead.
 3. There is a **non-zero** (but extremely low) ban risk since we're injecting code into the Genshin process. Please make sure that you _fully_ understand that before using this tweak. That being said, the only thing this tweak does is [change the reported iOS version](GenshinControllerEnabler.xm), with _no_ other modifications, so the ban risk _should_ be extremely low. (Not to mention that Genshin does not even perform jailbreak detection and all the important game logic is server-side anyway…)
 
 ※ **Info regarding [nControl](https://repo.packix.com/package/com.nito.ncontrol) version 1.9.1-6:** There is a known bug in the current publicly-available build of nControl (1.9.1-6) that causes the OPTIONS (PlayStation) / MENU (MFi, Xbox) button to not work on iOS 12 and below. I have spoken to the developer of nControl regarding this issue and have confirmed that an update will be made available very soon that will fix this bug.
