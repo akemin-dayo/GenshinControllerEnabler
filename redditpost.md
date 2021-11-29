@@ -38,4 +38,4 @@ That being said, the _only_ use this button has in Genshin is solely just to bri
 
 Therefore, simply by spoofing the iOS version, we can enable controller support on iOS versions below 14, albeit with a non-working Chat button!
 
-Funnily enough, there are actually quite a lot of MFi controllers out there that just physically completely lack the VIEW button (they only have a single MENU button), so the same "there is no Chat button" limitation obviously applies to those too, regardless of iOS version! ;P
+Funnily enough, there are actually quite a lot of MFi controllers out there that just physically completely lack the VIEW button (they only have a single MENU button), so the same "there is no Chat button" limitation obviously applies to those too, even on iOS 14! ;P
