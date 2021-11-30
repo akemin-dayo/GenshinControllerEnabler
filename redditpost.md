@@ -24,8 +24,6 @@ What it _actually_ does is simply make Genshin believe your device is running iO
 2. **[[nControl](https://repo.packix.com/package/com.nito.ncontrol) on iOS 12 and below only]** PlayStation button prompts do not show on iOS 12 and below. MFi / Xbox button prompts are displayed instead.
 3. There is a **non-zero** (but extremely low) ban risk since we're injecting code into the Genshin process. Please make sure that you _fully_ understand that before using this tweak. That being said, the only thing this tweak does is [change the reported iOS version](https://github.com/akemin-dayo/GenshinControllerEnabler/blob/master/GenshinControllerEnabler.xm), with _no_ other modifications, so the ban risk _should_ be extremely low. (Not to mention that Genshin does not even perform jailbreak detection and all the important game logic is server-side anyway…)
 
-※ **Info regarding [nControl](https://repo.packix.com/package/com.nito.ncontrol) version 1.9.1-6:** There is a known bug in the current publicly-available build of nControl (1.9.1-6) that causes the OPTIONS (PlayStation) / MENU (MFi, Xbox) button to not work on iOS 12 and below. I have spoken to the developer of nControl regarding this issue and have confirmed that an update will be made available very soon that will fix this bug.
-
 ---
 
 # So… why did miHoYo make such a strange artificial limitation!?
